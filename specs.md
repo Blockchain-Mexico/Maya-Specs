@@ -79,5 +79,19 @@ def AnotherSaple() -> None:
 
 
 
+### Validator 
+```
+def Validator() {
+    // A duty approach
+
+    Attestation_sample
+
+    // A Store approach 
+
+    sign_block() 
+
+    sign_attestation_sample() 
 
 
+    }
+```
