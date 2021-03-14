@@ -52,7 +52,7 @@ def Shooter_of_samples(state, sample1, sample2, sample3) -> None:
 
 ### snowball 
 ```python
-class 
+class snowball
 ```
 
 
@@ -63,16 +63,17 @@ def election_of_leader(state, sample_of_election) -> None:
  # election of leader based in the number of number of samples that shoter?
 ```
 
-### Fork choice rule of shooter? 
+### Fork choice rule of shooter?  to avoid bizantine fault 
 ```python
-def 
+def fork_choice_shooter():
+
 ```
 ### 
 
 
 ### Another Epidemic Sample 
 ```python
-def AnotherSaple() -> None: 
+def AnotherSample() -> None: 
 
 ```
 

@@ -1,6 +1,13 @@
 
 
+class validator() {
 
+}
+
+
+class shooter() {
+
+}
 
 // a fork choice rule of samplers?
 void samples_epidemics() {

@@ -7,13 +7,13 @@ def acs(pid, N, t, Q, broadcast, receive):
     decideChannel = [Queue(1) for _ in range(N)]
     receivedChannelsFlags = []
 
-    # transform to this state that could me a critzalizwe state
+    # transform to this state that could me a cristalize state
 
 
-# think in blocks ? activate state?  aggregate vote? ...
-# 
+# think in blocks ? activate state?  aggregate vote?
 class CrystallizedState():
     fields = {
+
             
             }
     defaults = {
