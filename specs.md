@@ -18,7 +18,7 @@ We can divide some specs in:
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- /TOC -->
 Introduction:
-We include basics specifications of maya.
+We include basics specifications of maya. https://www.overleaf.com/read/pzmnqkrmrpfn
 
 Hint: the inmutability of the leader (shooter - beacon) in the center of the matrix
 and the edges - execute the n samples in a sort random to get shard-samplers leaderless
