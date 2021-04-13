@@ -12,6 +12,8 @@ We can divide some specs in:
 - [6] Samples (Snowball - epidemic samples)
 - [7] Gossip
 - [8] Hybrids 
+- [9] Constant-Size Commitments to Polynomials ? Possible to Connect the hybrid in a intersenting way or a math moon missing piece?
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- /TOC -->
@@ -81,7 +83,7 @@ def AnotherSample() -> None:
 
 
 ### Validator 
-```
+```python
 def Validator() {
     // A duty approach
 
@@ -95,4 +97,11 @@ def Validator() {
 
 
     }
+```
+# Polynomail Commitment in create the shard_sample root
+```python
+def polynomial_stuff() {
+
+
+}
 ```

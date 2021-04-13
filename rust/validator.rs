@@ -14,9 +14,9 @@ pub struct Validator {
 
     pub attestation_sample_slot: Option<SlotSample>,
 
-    pub attestation_committee_positiohn: Option<usize>,
+    pub attestation_committee_position: Option<usize>,
 
-    pub comiteee_count_at_slot: Option<u64>,
+    pub comitte_count_at_slot: Option<u64>,
 
     pub block_proposal_slots: Option<Vec<Slot>>,
 

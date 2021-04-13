@@ -14,6 +14,6 @@ class Pleothora_of_samples(snowball, sample1, sample2):
     # global state similar to honey badger?
 
 
-    # difficulty the merkle tree :
+    # difficulty the merkle tree : actually is pretty nuts think in create a shard root with polynomials in this hibryd.
     def proof(self):
 
