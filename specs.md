@@ -13,7 +13,7 @@ We can divide some specs in:
 - [7] Gossip
 - [8] Hybrids 
 - [9] Constant-Size Commitments to Polynomials ? Possible to Connect the hybrid in a intersenting way or a math moon missing piece?
-
+-[10] a direct and undirect shoot- meaning in the service.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- /TOC -->
