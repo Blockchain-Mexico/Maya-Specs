@@ -32,7 +32,7 @@ Elrond ---
 Solana --
 Ethereum --- *Hint: any pool of any shard could be any attestation of the leader state( a kind of hibryd beacon with sa shooter)
 **threshold always: if (numNodesForSharding < shardSizeValues[0]) ?
-###  Slasher? of samplers
+###  Slasher of samplers
 ```python
 def Slash_of_samples(state, shooter) -> None:
     
@@ -48,7 +48,8 @@ def Slasher()
 ### Shooter of samples (in the edges?)
 ```python
 def Shooter_of_samples(state, sample1, sample2, sample3) -> None:
-   
+   // The O(n) method is one loop ?
+
 ```
 
 
@@ -62,7 +63,8 @@ class snowball
 ```python
 def election_of_leader(state, sample_of_election) -> None:
 
- # election of leader based in the number of number of samples that shoter?
+ # election of leader based in the number of samples that shots
+ variant: Necesary a O(n) shoot?
 ```
 
 ### Fork choice rule of shooter?  to avoid bizantine fault 
@@ -72,8 +74,7 @@ def fork_choice_shooter():
 ```
 ### 
 
-
-### Another Epidemic Sample 
+ Another Epidemic Sample 
 ```python
 def AnotherSample() -> None: 
 
