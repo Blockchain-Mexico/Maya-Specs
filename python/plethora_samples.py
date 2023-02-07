@@ -1,7 +1,7 @@
 import enum
 import random
 
-
+# n samples with n validators 
 class Pleothora_of_samples(snowball, sample1, sample2):
     def initialize_samples():
 
