@@ -15,9 +15,11 @@ Table of Content
 ## Introduction
 
 
+
 This document describes the hybrid blockchain that do centralized and
 descentralized computations.
 
+##
 
 ## Design Goals
 
@@ -26,6 +28,18 @@ The following are the desing of maya hybrid blockchain specifications:
 . to allow do descentralized and centralized computations in the same protocol
 avoid the node js implemntations of the two worlds.
 
-## Usedful External Resources 
+## Constans
+
+## Configuration
+
+## Serialization
+
+## Deserilization 
+
+
+
+
+
+Usedful External Resources 
 
 .
