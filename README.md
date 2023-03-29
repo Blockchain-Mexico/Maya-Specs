@@ -7,7 +7,7 @@ This repository contains the consensus specifications related to the Hyrbid exec
 
 ## Specs 
 
-Core Specifications for the Hybrid Protocol can be found in specs 
+Core Specifications for the Hybrid Protocol for centralized and descentralized computations can be found in specs 
 
 
 ## Resources 
