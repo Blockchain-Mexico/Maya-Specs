@@ -28,7 +28,8 @@ void validator() {
 }
 
 int main() {
-
-
+    
+    //consensus
+    
 
 }
