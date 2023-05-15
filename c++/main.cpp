@@ -1,4 +1,4 @@
-
+// libraries
 
 class validator() {
 
@@ -6,6 +6,10 @@ class validator() {
 
 
 class shooter() {
+
+}
+
+class wallet() {
 
 }
 
