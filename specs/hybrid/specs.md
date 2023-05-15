@@ -5,12 +5,14 @@ Centralized and descentralized the best of both worlds.
 Table of Content 
 
 
-[1] Network 
+[1] Network (p2p, ICP)
 [2] Core banking
 [3] Descentralized
 [4] Chain 
 [5] Centralized 
-[6] 
+[6] Apis
+[7] Consensus
+
 
 ## Introduction
 
@@ -19,7 +21,6 @@ Table of Content
 This document describes the hybrid blockchain that do centralized and
 descentralized computations.
 
-##
 
 ## Design Goals
 
@@ -36,10 +37,4 @@ avoid the node js implemntations of the two worlds.
 
 ## Deserilization 
 
-
-
-
-
-Usedful External Resources 
-
-.
+Useful External Resources 
